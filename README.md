@@ -1,4 +1,4 @@
-### Hi there  :wave:
+### Hi there 👋
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=reveurguy.reveurguy)
 
 <!--
