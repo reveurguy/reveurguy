@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source projects .
 - ⚡ Fun fact: Stay Focussed .
 
-[![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=reveurguy)](https://github.com/reveurguy/github-readme-stats)
+<!-- [![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=reveurguy)](https://github.com/reveurguy/github-readme-stats) --!>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=reveurguy&show_icons=true&count_private=true" />
