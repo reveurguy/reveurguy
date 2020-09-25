@@ -1,4 +1,4 @@
-### Hi there, I'm Priyanshu Singh 👋 👨‍💻
+### Hi There, I'm Priyanshu Singh 👋 👨‍💻
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=reveurguy.reveurguy)
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development .
 - 👯 I’m looking to collaborate on open-source projects .
 - ⚡ Fun fact: Stay Focussed, and Keep Coding.
-- 👨‍💻 My projects till now are [YelpCamp](https://ps-yelpcamp.herokuapp.com/) and completely styling and changing [Py-Contributors](https://py-contributors.github.io/).
+- 👨‍💻 My projects till now are [**YelpCamp**](https://ps-yelpcamp.herokuapp.com/) and completely styling and changing [**Py-Contributors**](https://py-contributors.github.io/).
 
 <!-- [![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=reveurguy)](https://github.com/reveurguy/github-readme-stats) --!>
 
