@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <!-- [![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=reveurguy)](https://github.com/reveurguy/github-readme-stats) --!>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=reveurguy&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=reveurguy&show_icons=true&theme=dark&count_private=true" />
