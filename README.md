@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development .
 - 👯 I’m looking to collaborate on open-source projects .
 - ⚡ Fun fact: Stay Focussed, and Keep Coding.
-- 👨‍💻 My projects till now are [**YelpCamp**](https://ps-yelpcamp.herokuapp.com/) and completely styling and changing [**Py-Contributors**](https://py-contributors.github.io/). Also some fun projects like [**Sheldon Cooper Quotes**](https://reveurguy.github.io/Sheldon-Cooper-Quotes/), [**Chandler Bing Quotes**](https://reveurguy.github.io/Chandler-Bing-Quotes/).
+- 👨‍💻 My projects till now are [**YelpCamp**](https://ps-yelpcamp.herokuapp.com/) and completely styling and changing [**Py-Contributors**](https://py-contributors.github.io/). Also some fun projects like [**Sheldon Cooper Quotes**](https://reveurguy.github.io/Sheldon-Cooper-Quotes/), [**Chandler Bing Quotes**](https://reveurguy.github.io/Chandler-Bing-Quotes/), [**Ron Swanson Quotes**](https://reveurguy.github.io/Ron-Swanson-Quotes/) .
 
 <!-- [![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=reveurguy)](https://github.com/reveurguy/github-readme-stats) --!>
 
