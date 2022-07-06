@@ -29,11 +29,15 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+[![](https://raw.githubusercontent.com/reveurguy/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/reveurguy/github-profile-summary-cards)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=reveurguy)](https://github.com/reveurguy/github-contribution-stats/)
-<img src="https://github-readme-stats.vercel.app/api?username=reveurguy&show_icons=true&theme=dark&count_private=true" />
+
+[![](https://raw.githubusercontent.com/reveurguy/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/reveurguy/github-profile-summary-cards)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reveurguy&theme=monokai-metallian)](https://git.io/streak-stats)
 
 <br>
-![](https://github.com/reveurguy/reveurguy/blob/output/github-contribution-grid-snake-dark.svg)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/reveurguy/reveurguy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
