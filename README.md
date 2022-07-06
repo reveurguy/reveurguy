@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 
 <!-- [![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=reveurguy)](https://github.com/reveurguy/github-readme-stats) --!>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=reveurguy&show_icons=true&theme=dark&count_private=true" />
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
