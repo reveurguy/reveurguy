@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Shade&size=30&duration=6000&color=19B3F7&background=FFFFFF00&center=true&vCenter=true&width=510&height=200&lines=Hi+There!!+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B;I'm+Priyanshu+Singh+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Shade&size=45&duration=6000&color=19B3F7&background=FFFFFF&center=true&vCenter=true&width=830&height=200&lines=Hi+There!!+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B;I'm+Priyanshu+Singh+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <br>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=reveurguy.reveurguy)
 
 <!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"> -->
-<img align='right' src='https://github.com/reveurguy/reveurguy/blob/master/data/baracktocat.jpg' width='300"'>
+<img align='right' src='https://github.com/reveurguy/reveurguy/blob/master/data/baracktocat.jpg' width='250"'>
 </br>
 
 <!--
@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 <!--[![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=reveurguy)](https://github.com/reveurguy/github-readme-stats) -->
 
+<br>
+<br>
 <br>
 <br>
 <br>
