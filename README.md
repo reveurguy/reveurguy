@@ -29,10 +29,12 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-[![](https://raw.githubusercontent.com/reveurguy/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/reveurguy/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/reveurguy/reveurguy/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
+![](https://raw.githubusercontent.com/reveurguy/reveurguy/output/generated/overview.svg#gh-dark-mode-only)
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=reveurguy)](https://github.com/reveurguy/github-contribution-stats/)
+
 
 [![](https://raw.githubusercontent.com/reveurguy/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/reveurguy/github-profile-summary-cards)
 
