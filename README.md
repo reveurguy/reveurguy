@@ -24,9 +24,17 @@ Here are some ideas to get you started:
 
 <!--[![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=reveurguy)](https://github.com/reveurguy/github-readme-stats) -->
 
+<br>
+<br>
+<br>
+<br>
+
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=reveurguy)](https://github.com/reveurguy/github-contribution-stats/)
 <img src="https://github-readme-stats.vercel.app/api?username=reveurguy&show_icons=true&theme=dark&count_private=true" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reveurguy&theme=monokai-metallian)](https://git.io/streak-stats)
 
+<br>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=reveurguy)](https://github.com/reveurguy/github-contribution-stats/)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
