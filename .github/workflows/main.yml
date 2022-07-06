@@ -56,7 +56,7 @@ jobs:
     # Commits all changed files to the repository
     - name: Commit to the output branch of repo
       run: |
-        git config --global user.name "reveurguy"
+        git config --global user.name "reveurguy/reveurguy"
         git config --global user.email "reveur.guy99@gmail.com"
         git add .
         git commit -m 'temp commit' || echo
