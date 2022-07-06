@@ -52,15 +52,12 @@ jobs:
       env:
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        EXCLUDED: ${{ secrets.EXCLUDED }}
-        EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
-        COUNT_STATS_FROM_FORKS: ${{ secrets.COUNT_STATS_FROM_FORKS }}
 
     # Commits all changed files to the repository
     - name: Commit to the output branch of repo
       run: |
-        git config --global user.name "github-stats[bot]"
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "reveurguy"
+        git config --global user.email "reveur.guy99@gmail.com"
         git add .
         git commit -m 'temp commit' || echo
         git checkout output1 2>/dev/null || git checkout --orphan output1 && git rm -rf . && git checkout master -- generated/
