@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/reveurguy/reveurguy/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-![](https://raw.githubusercontent.com/reveurguy/reveurguy/output/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/reveurguy/reveurguy/master/generated/overview.svg#gh-dark-mode-only)
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=reveurguy)](https://github.com/reveurguy/github-contribution-stats/)
 
 
