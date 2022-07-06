@@ -1,6 +1,7 @@
 name: Profile Readme Development Stats
 
 on:
+  push:
   schedule:
     - cron: "30 18 * * *"
   workflow_dispatch:
