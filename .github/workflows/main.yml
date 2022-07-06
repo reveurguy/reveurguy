@@ -5,7 +5,6 @@ name: Generate Stats Images
 # Controls when the action will run. Triggers the workflow on push events
 on:
   push:
-    branches: [ main ]
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -52,7 +51,7 @@ jobs:
         python3 --version
         python3 generate_images.py
       env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         EXCLUDED: ${{ secrets.EXCLUDED }}
         EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
