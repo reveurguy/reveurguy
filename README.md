@@ -2,7 +2,9 @@
 
 <br>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=reveurguy.reveurguy)
+<div>
+<img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=Visitors Count&left_color=yellow&right_color=blue">
+</div>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"> -->
 <img align='right' src='https://github.com/reveurguy/reveurguy/blob/master/data/baracktocat.jpg' width='250"'>
@@ -25,7 +27,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development and Devops.
 - 👯 I’m looking to work on open-source projects .
 - ⚡ Fun fact: Stay Focussed, and Keep Coding.
-- 👨‍💻 Open-Source Contibutor in [**Jenkins**](https://www.jenkins.io/) and many CNCF projects like [**Porter,**](https://getporter.org/) [**Keda,**](https://keda.sh/) [**Containerd,**](https://containerd.io/) [**CoreDNS,**](https://coredns.io/).
+- 👨‍💻 Open-Source Contibutor in [**Jenkins**](https://www.jenkins.io/) and many CNCF projects like [**Porter,**](https://getporter.org/) [**Keda,**](https://keda.sh/) [**Containerd,**](https://containerd.io/) [**CoreDNS.**](https://coredns.io/)
 
 <!--[![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=reveurguy)](https://github.com/reveurguy/github-readme-stats) -->
 
@@ -43,14 +45,19 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
-<!--
-![](https://raw.githubusercontent.com/reveurguy/reveurguy/output1/generated/overview.svg#gh-dark-mode-only) -->
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=reveurguy)](https://github.com/reveurguy/github-contribution-stats/)
+<div align="center">
+<img src="https://raw.githubusercontent.com/reveurguy/reveurguy/output1/generated/overview.svg#gh-dark-mode-only" height="270">
+<img src="https://github-contribution-stats.vercel.app/api/?username=reveurguy" >
+
+</div>
+
+
 [![](https://raw.githubusercontent.com/reveurguy/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/reveurguy/github-profile-summary-cards)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reveurguy&theme=monokai-metallian)](https://git.io/streak-stats)
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=reveurguy&theme=monokai-metallian" width="800"/>
+</p>
+
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/reveurguy/reveurguy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
