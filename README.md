@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Stay Focussed, and Keep Coding.
 - 👨‍💻 My projects till now are [**YelpCamp**](https://ps-yelpcamp.herokuapp.com/) and completely styling and changing [**Py-Contributors**](https://py-contributors.github.io/). Also some fun projects like [**Sheldon Cooper Quotes**](https://reveurguy.github.io/Sheldon-Cooper-Quotes/), [**Chandler Bing Quotes**](https://reveurguy.github.io/Chandler-Bing-Quotes/), [**Ron Swanson Quotes**](https://reveurguy.github.io/Ron-Swanson-Quotes/) .
 
-<!-- [![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=reveurguy)](https://github.com/reveurguy/github-readme-stats) --!>
+<!--[![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=reveurguy)](https://github.com/reveurguy/github-readme-stats) -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=reveurguy&show_icons=true&theme=dark&count_private=true" />
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reveurguy&theme=monokai-metallian)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=reveurguy)](https://github.com/reveurguy/github-contribution-stats/)
