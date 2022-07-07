@@ -3,7 +3,7 @@
 <br>
 
 <div>
-<img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=Visitors Count&left_color=yellow&right_color=blue">
+<img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=VisitorsCount&left_color=yellow&right_color=blue">
 </div>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"> -->
