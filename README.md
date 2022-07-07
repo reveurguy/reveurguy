@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 </p>
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/reveurguy/reveurguy/master/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/reveurguy/reveurguy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
