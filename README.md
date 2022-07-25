@@ -57,9 +57,10 @@ Here are some ideas to get you started:
 
 [![](https://raw.githubusercontent.com/reveurguy/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/reveurguy/github-profile-summary-cards)
 
+<!-- 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=reveurguy&theme=monokai-metallian" width="800"/>
 </p>
-
+ -->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/reveurguy/reveurguy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
