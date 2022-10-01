@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Shade&size=45&duration=6000&color=19B3F7&background=FFFFFF&center=true&vCenter=true&width=830&height=200&lines=Hi+There!!+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B;I'm+Priyanshu+Singh+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![@reveurguy's Holopin board](https://holopin.io/api/user/board?user=reveurguy)](https://holopin.io/@reveurguy)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Shade&size=45&duration=6000&color=19B3F7&background=FFFFFF&center=true&vCenter=true&width=1100&height=200&lines=Hi+There!!+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B;I'm+Priyanshu+Singh+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <br>
 
