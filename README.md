@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Jenkins** and **CNCF projects.**
 - 👯 I’m looking to collaborate on open-source projects .
 - 😄 Pronouns: He/Him
-- 👨‍💻 Open-Source Contibutor in [**Jenkins**](https://www.jenkins.io/) and many CNCF projects like [**Porter,**](https://getporter.org/) [**Keda,**](https://keda.sh/) [**Containerd,**](https://containerd.io/) [**CoreDNS.**](https://coredns.io/)
+- 👨‍💻 Open-Source Contibutor in [**Jenkins**](https://www.jenkins.io/) and many CNCF projects like [**Porter,**](https://getporter.org/) [**Keda,**](https://keda.sh/) [**Containerd**](https://containerd.io/) etc.
 - 📫 How to reach me: **reveur.guy99@gmail.com**
 
 <!--[![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=reveurguy)](https://github.com/reveurguy/github-readme-stats) -->
