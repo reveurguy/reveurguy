@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/reveurguy/reveurguy/output1/generated/overview.svg#gh-dark-mode-only" height="270">
+<img src="https://github.com/reveurguy/reveurguy/blob/768df96178f679163184aafcd39d1a35e4431f92/generated/overview.svg#gh-dark-mode-only" height="270">
 <img src="https://github-contribution-stats.vercel.app/api/?username=reveurguy" >
 
 </div>
