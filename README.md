@@ -26,17 +26,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Web Development and Devops.
-- 🔭 I’m currently working on **Jenkins** and **CNCF projects.**
-- 👯 I’m looking to collaborate on open-source projects .
-- 😄 Pronouns: He/Him
-- 👨‍💻 Open-Source Contibutor in [**Jenkins**](https://www.jenkins.io/) and many CNCF projects like [**Porter,**](https://getporter.org/) [**Keda,**](https://keda.sh/) [**Containerd**](https://containerd.io/) etc.
-- 📫 How to reach me: **reveur.guy99@gmail.com**
+- 🏫 I' currently a student pursuing Bachelor's of Science in Computer Science from Delhi University graduating in 2023. I'm a **GDSC Lead**, previous HackClub Lead at my campus. I'm **Google Cloud Certified: Cloud Digital Leader**.
+
+- 🌱 I’m currently learning **Web Development** and **Cloud Native Technologies and Tools**. Currently exploring **Typescript and Next.js** along with **Kubernetes**.
+
+- 🔭 I’m currently working on open-source projects within **CNCF** and other areas as well.
+
+- ✨ As a lifelong learner, I'm always seeking new challenges and opportunities to grow as a developer. My recent work has involved contributing to open-source projects such as Jenkins and various CNCF projects such as Porter, Keda, and Containerd.
+
+- 🎯 My goal is to collaborate with other developers and contribute to the growth of the technology community. I believe that open-source projects are a great way to build new skills, share knowledge, and make a positive impact.
+
+- 👯 I’m looking to collaborate on open-source projects. If you're looking to collaborate on a project or just want to connect, feel free to reach out at **reveur.guy99@gmail.com**. I'd love to hear from you!
+
+- 👨‍💻 **Open-Source Contibutor** in [**Jenkins**](https://www.jenkins.io/) and many CNCF projects like [**Porter,**](https://getporter.org/) [**Keda,**](https://keda.sh/) [**Containerd**](https://containerd.io/) etc. <br>
+  I also built a new website for **[AOSSIE( GSOC Organisation )](https://aossie.org)** from scratch.
+
+- ✉️ How to reach me: **reveur.guy99@gmail.com**, **priyanshu.singh3502@gmail.com**. <br>
+  You can read my Blogs [here](https://blog-reveurguy.vercel.app/). More to come soon so keep a watch for that, will implement a subscription system soon   as well.
+
+- 😄 I received the **Dan Kohn Scholarship** to attend **KubeCon Europe 2023**, so pretty happy about that and looking forward to that!
 
 <!--[![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=reveurguy)](https://github.com/reveurguy/github-readme-stats) -->
 
-<br>
-<br>
 <br>
 <br>
 <br>
