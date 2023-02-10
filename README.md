@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏫 I' currently a student pursuing Bachelor's of Science in Computer Science from Delhi University graduating in 2023. I'm a **GDSC Lead**, previous HackClub Lead at my campus. I'm **Google Cloud Certified: Cloud Digital Leader**.
+- 🏫 I'm currently a student pursuing Bachelor's of Science in Computer Science from Delhi University graduating in 2023. I'm a **GDSC Lead**, previous HackClub Lead at my campus. I'm **Google Cloud Certified: Cloud Digital Leader**.
 
 - 🌱 I’m currently learning **Web Development** and **Cloud Native Technologies and Tools**. Currently exploring **Typescript and Next.js** along with **Kubernetes**.
 
